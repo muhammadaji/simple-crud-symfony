@@ -1,1 +1,7 @@
-Its a simple crud with symfony and mysql
+# Simple CRUD with Symfony
+Build with Symfony
+
+## Usage
+
+### Package Require
+
